@@ -17,7 +17,7 @@ This video shows the point of view of a rider in a waymo self driving car. It ex
 I chose the Waymo self driving car video because it gives me a clear idea about a self-driving car and its characteristics. It relates to one of our workshop contents from week 2 where we discussed about AI driven car and how the cameras and sensors helps AI to drive the car without any trouble. One of the facts that stood out to me is the driving felt like a real human was behind the wheel. This relates to what McCarthy said that behaviour of AI will almost feel like as if a human did the same (McCarthy 1955, cited in Galea 2026). But, since i watched the ride instead of physcially experiencing it, i realised that my whole conception about this technology is totally based on observation, not on physcial experience. I would have trusted it more if i rode in one of the self driving cars. This made me realise that machine is not always perfect.
 
 
-## Artefact 2: A News Article I Found This Week
+## Artefact 2: A News Article Related To Waymo
 
 <img width="1671" height="915" alt="12456" src="https://github.com/user-attachments/assets/9926a802-db3c-4496-acc7-c8bdad726235" />
 
