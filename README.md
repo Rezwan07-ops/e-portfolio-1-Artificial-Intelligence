@@ -52,7 +52,7 @@ i chose this article because it relates to my artefact 2 concern about accountab
 
 ## Artefact 4: Workshop Personal Reflection
 
-<img width="400" height="400" alt="IMG_1263" src="https://github.com/user-attachments/assets/de55a8fb-5a19-4ca5-a203-29c667dcd300" />
+<img width="600" height="400" alt="IMG_1263" src="https://github.com/user-attachments/assets/de55a8fb-5a19-4ca5-a203-29c667dcd300" />
 
 Workshop Week 2, 23 July 2026, Thursday, Tutor- 
 Umapathy Venugopal , Sydney Campus
