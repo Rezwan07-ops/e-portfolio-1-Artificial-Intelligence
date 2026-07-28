@@ -26,9 +26,9 @@ I chose the Waymo self driving car video because it gives me a clear idea about 
 https://www.aljazeera.com/economy/2026/1/29/us-opens-probe-after-a-waymo-self-driving-car-hit-a-child-near-a-school
 
 ### Summary of the artefact
-
+This article was published by Al Jazeera during the start of 2026 which shows a 9 year old student was hit by a Waymo self driving car near a school during school hours. Fortunately, the child did not suffer from any major injuries and did not need any medical attention. But an investigation was opened on this incident and in court, Waymo said that the car braked hard and a human would have hit the child harder in this situation.
 
 
 ### Justification on why I chose the artefact
-
+The reason why i chose this article is after watching the video, i raised a question about who will be responsible if AI makes a mistake and thats what happened as mentioned in the article. Even though the child was running in the street, i think Waymo should be held responsible since human drivers would have driven more carefully in the area. So, i think self driving automated cars are not yet safer option than humans and it needs more techincal development.
 
