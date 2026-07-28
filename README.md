@@ -59,7 +59,7 @@ Workshop Week 2, 23 July 2026, Thursday, Tutor-
 Umapathy Venugopal , Sydney Campus
 
 ### Summary of the artefact: My Personal Reflection
-
+In our workshop 2
 
 ### Justification on why I chose the artefact
 
