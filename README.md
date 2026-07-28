@@ -32,3 +32,20 @@ This article was published by Al Jazeera during the start of 2026 which shows a 
 ### Justification on why I chose the artefact
 The reason why i chose this article is after watching the video, i raised a question about who will be responsible if AI makes a mistake and thats what happened as mentioned in the article. Even though the child was running in the street, i think Waymo should be held responsible since human drivers would have driven more carefully in the area. So, i think self driving automated cars are not yet safer option than humans and it needs more techincal development.
 
+
+## Artefact 3: Scholarly Article
+
+<img width="894" height="580" alt="sc" src="https://github.com/user-attachments/assets/5224f591-32c6-4aaa-b03e-e68c52df17ef" />
+
+“All things equal”: ethical principles governing why autonomous vehicle experts change or retain their opinions in trolley problems—a qualitative study
+
+ https://doi.org/10.3389/frobt.2025.1544272
+
+ ### Summary of the artefact
+ This article by Milford et al. (2025) explains how 46 professionals working in autonomous vehicle industry were interviewed by researchers. the interview was about how the vehicles should make decisions in unavoidable incidents. The article describes that most of the experts gave answers and it was dependent on the context. Some experts said that the cars should follow and prioritize the traffic rules instead of comparing the statistics of who dies less and some of them said the car might be designed to protect the actual passenger instead of the pedestrians.
+
+
+ ### Justification on why I chose the artefact
+ 
+i chose this article because it relates to my artefact 2 concern about accountability. Milford et al. (2025) shows that even AV professionals have different opinions on who the car should protect. But a car protecting its passenger instead of the pedestrians seems unfair. This made me realise that the self-driven cars are not ready for taking ethical decisions yet.
+
