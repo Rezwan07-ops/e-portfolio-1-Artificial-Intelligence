@@ -52,5 +52,6 @@ i chose this article because it relates to my artefact 2 concern about accountab
 
 ## Artefact 4: Workshop Personal Reflection
 
+<img width="1242" height="2208" alt="IMG_1263" src="https://github.com/user-attachments/assets/de55a8fb-5a19-4ca5-a203-29c667dcd300" />
 
 
