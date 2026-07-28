@@ -49,3 +49,8 @@ The reason why i chose this article is after watching the video, i raised a ques
  
 i chose this article because it relates to my artefact 2 concern about accountability. Milford et al. (2025) shows that even AV professionals have different opinions on who the car should protect. But a car protecting its passenger instead of the pedestrians seems unfair. This made me realise that the self-driven cars are not ready for taking ethical decisions yet.
 
+
+## Artefact 4: Workshop Personal Reflection
+
+
+
