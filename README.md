@@ -68,8 +68,6 @@ I chose this week's workshop because my idea about Artificial Intelligence compl
 
 Milford, M, Malgir, M, Elger, B and Shaw, D 2025, ''All things equal': ethical principles governing why autonomous vehicle experts change or retain their opinions in trolley problems', *Frontiers in Robotics and AI*, vol. 12. DOI: 10.3389/frobt.2025.1544272
 
-Rajaraman, V 2014, 'John McCarthy — father of artificial intelligence', Resonance, vol. 19, no. 3, pp. 198-207. DOI: 10.1007/s12045-014-0027-9
-
 Galea, G 2026, 'Week 2: Artificial Intelligence', PowerPoint presentation, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 27 July 2026, http://moodle.cqu.edu.au/
 
 Tse, J 2026, *Inside Waymo's Self-Driving Car // Day in Life of a Fully Autonomous Future!*, video, 21 March, viewed 27 July 2026, https://www.youtube.com/watch?v=vaV7UWT9uZQ
